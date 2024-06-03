@@ -5,7 +5,7 @@ I am a data analyst with a robust background in ETL development, data warehousin
 
 Connect with me on social media 👋:
 
-✉️ [Mail](chiranjeevharshwal1331@gmail.com)
+✉️ [Mail] chiranjeevharshwal1331@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/chiranjeev-harshwal/)
 🌐 [Personal Website](https://chiranjeevh.github.io/)
 
