@@ -9,9 +9,15 @@ Connect with me on social media 👋:
 🔗 [LinkedIn](https://www.linkedin.com/in/chiranjeev-harshwal/)
 🌐 [Personal Website](https://chiranjeevh.github.io/)
 
-## Technical Skills
-- **Programming Languages:** Python(![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)), SQL, Java, .NET
-- **Tools & Platforms:** Tableau, Power BI, Apache Spark, Elasticsearch
+## Skills
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1E4E79?style=flat&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=Apache%20Spark&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 - **Data Warehouse Design Tools:** MS SQL Server, AWS RDS, RedShift, Oracle, Snowflake
 - **Skills:** Data Warehousing, ETL Development, Data Reporting, Project Management, Data Quality Management, Master Data Management, Business Process Analysis, Stakeholder Engagement
 
