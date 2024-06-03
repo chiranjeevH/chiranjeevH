@@ -7,7 +7,7 @@ I am a data analyst with a robust background in ETL development, data warehousin
 🌐 [Personal Website](https://chiranjeevh.github.io/)
 
 ## Technical Skills
-- **Programming Languages:** Python, SQL, Java, .NET
+- **Programming Languages:** Python(https://img.shields.io/badge/python), SQL, Java, .NET
 - **Tools & Platforms:** Tableau, Power BI, Apache Spark, Elasticsearch
 - **Data Warehouse Design Tools:** MS SQL Server, AWS RDS, RedShift, Oracle, Snowflake
 - **Skills:** Data Warehousing, ETL Development, Data Reporting, Project Management, Data Quality Management, Master Data Management, Business Process Analysis, Stakeholder Engagement
