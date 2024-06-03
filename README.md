@@ -10,7 +10,7 @@ Connect with me on social media 👋:
 🌐 [Personal Website](https://chiranjeevh.github.io/)
 
 ## Technical Skills
-- **Programming Languages:** Python, SQL, Java, .NET
+- **Programming Languages:** Python(![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)), SQL, Java, .NET
 - **Tools & Platforms:** Tableau, Power BI, Apache Spark, Elasticsearch
 - **Data Warehouse Design Tools:** MS SQL Server, AWS RDS, RedShift, Oracle, Snowflake
 - **Skills:** Data Warehousing, ETL Development, Data Reporting, Project Management, Data Quality Management, Master Data Management, Business Process Analysis, Stakeholder Engagement
