@@ -43,6 +43,10 @@ html
 <hr />
 
 
+Let's Connect!
+Feel free to explore my projects and reach out if you have any questions or opportunities! Connect with me on LinkedIn. I am open to collaborations and always excited about new opportunities in the world of Data Analytics. Let's build something amazing together! 😊
 
-Feel free to explore my repositories and reach out if you have any questions or opportunities!
+Thank you for visiting
+
+Feel free to explore my repositories 
 
