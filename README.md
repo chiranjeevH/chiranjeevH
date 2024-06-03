@@ -20,10 +20,28 @@ html
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=Apache%20Spark&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/AWS%20RDS-FF9900?style=flat&logo=amazonaws&logoColor=white" height="25" />
 </p>
-- **Data Warehouse Design Tools:** MS SQL Server, AWS RDS, RedShift, Oracle, Snowflake
-- **Skills:** Data Warehousing, ETL Development, Data Reporting, Project Management, Data Quality Management, Master Data Management, Business Process Analysis, Stakeholder Engagement
+<h2>Data Warehouse Design Tools</h2>
+<p>
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" />
+  <img src="https://img.shields.io/badge/AWS%20RDS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS RDS" />
+  <img src="https://img.shields.io/badge/RedShift-EE4B2B?style=flat-square&logo=amazonaws&logoColor=white" alt="RedShift" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+</p>
 
----
+<h2>Core Skills</h2>
+<ul>
+  <li>Data Warehousing</li>
+  <li>ETL Development</li>
+  <li>Data Reporting</li>
+  <li>Project Management</li>
+  <li>Data Quality Management</li>
+  <li>Master Data Management</li>
+  <li>Business Process Analysis</li>
+  <li>Stakeholder Engagement</li>
+</ul>
+
+<hr />
 
 
 
