@@ -16,8 +16,6 @@ html
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Tableau-1E4E79?style=flat&logo=Tableau&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="25" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=Apache%20Spark&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/AWS%20RDS-FF9900?style=flat&logo=amazonaws&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="25" />
  
 </p>
@@ -27,6 +25,7 @@ html
   <img src="https://img.shields.io/badge/AWS%20RDS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS RDS" />
   <img src="https://img.shields.io/badge/RedShift-99424F?style=flat-square&logo=amazonaws&logoColor=white" alt="RedShift" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=Apache%20Spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-005A9C?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
 </p>
 
