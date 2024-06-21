@@ -10,7 +10,6 @@ Connect with me via 👉:
 🌐 [Personal Website](https://chiranjeevh.github.io/)
 
 ## Skills
-html
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" height="25" />
