@@ -1,7 +1,7 @@
 # Chiranjeev Harshwal
 
 ## About Me
-I am a data analyst with a 3 years of background in Data Science and Analytics, focusing on ETL development, data warehousing, and data visualization. With a Master’s degree from the University of Pittsburgh and comprehensive hands-on experience in diverse data environments, I specialize in leveraging technical tools to enhance data accuracy, reporting, and business decision-making processes.
+I am a data analyst with three years of experience in Data Science and Analytics, specializing in data review, process improvement, and cross-functional collaboration. With a Master’s degree from the University of Pittsburgh, I have a strong background in ETL development, data warehousing, and data visualization. My focus is on leveraging these skills to drive operational efficiency, enhance data integrity, and support strategic decision-making.
 
 Connect with me via 👉:
 
