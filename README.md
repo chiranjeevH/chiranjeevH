@@ -22,7 +22,7 @@ Connect with me via 👉:
 <p>
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-007ACC?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" />
   <img src="https://img.shields.io/badge/AWS%20RDS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS RDS" />
-  <img src="https://img.shields.io/badge/RedShift-99424F?style=flat-square&logo=amazonaws&logoColor=white" alt="RedShift" />
+  <img src="https://img.shields.io/badge/RedCap-99424F?style=flat-square&logo=amazonaws&logoColor=white" alt="RedCap" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=Apache%20Spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-005A9C?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
